@@ -18,8 +18,7 @@
   - [Create your first custom Amazon Aurora Database/VPC and its components in AWS](https://github.com/url)
     
 <h2>📖 Certifications:</h2>
-- <b>Google Cybersecurity Professional Certificate</b>
-  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RBTNSKFZ65E3)
+<b>Google Cybersecurity Professional Certificate</b>(https://www.coursera.org/account/accomplishments/professional-cert/RBTNSKFZ65E3)
 
 <h2>📺 Popular YouTube Videos</h2>
 
