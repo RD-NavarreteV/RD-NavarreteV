@@ -1,1 +1,50 @@
 
+tcpdump is a powerful command-line packet analyzer that allows you to capture and analyze network traffic on a Unix or Linux-based system. Here are some commonly used tcpdump commands with explanations:
+
+1. Basic Packet Capture:
+  -i: Specifies the network interface to capture packets from.
+Example: tcpdump -i eth0
+
+2. Capture Packets with Specific Port:
+  Capture packets on a specific port.
+Example: tcpdump -i eth0 port 80
+
+3. Display Packet Details in ASCII:
+  -A: Display packet details in ASCII.
+Example: tcpdump -A -i eth0
+
+4. Capture and Save to a File:
+  -w: Write the raw packets to a file for later analysis.
+Example: tcpdump -i eth0 -w output.pcap
+
+5. Display Packet Timestamps:
+  -tttt: Display timestamps for each packet.
+Example: tcpdump -tttt -i eth0
+
+6. Filter by IP Address:
+  Capture packets involving a specific IP address.
+Example: tcpdump -i eth0 host 192.168.1.1
+
+7. Filter by Source or Destination IP:
+  Capture packets with a specific source or destination IP address.
+Example: tcpdump -i eth0 src 192.168.1.2
+
+8. Capture ICMP (Ping) Packets:
+  Capture ICMP packets.
+Example: tcpdump -i eth0 icmp
+
+9. Capture Only N Packets:
+  -c: Capture only a specified number of packets.
+Example: tcpdump -i eth0 -c 10
+
+10. Display Captured Packets in Real Time:
+  -n: Don't resolve hostnames.
+-l: Line-buffered output (useful for real-time display).
+Example: tcpdump -i eth0 -n -l
+
+11. Capture Specific Protocol:
+  Capture packets of a specific protocol (e.g., tcp, udp, arp).
+Example: tcpdump -i eth0 tcp
+
+These are just some examples of tcpdump commands, and the tool offers a wide range of options for more advanced filtering and analysis. Always refer to the tcpdump manual (man tcpdump) for a comprehensive list of options and usage details.
+
