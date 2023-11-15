@@ -1,3 +1,6 @@
+<h1>Analyze Network Traffic with TCPDump</h1>
+
+<h2>Description</h2>
 
 tcpdump is a powerful command-line packet analyzer that allows you to capture and analyze network traffic on a Unix or Linux-based system. Here are some commonly used tcpdump commands with explanations:
 
@@ -48,3 +51,55 @@ Example: tcpdump -i eth0 tcp
 
 These are just some examples of tcpdump commands, and the tool offers a wide range of options for more advanced filtering and analysis. Always refer to the tcpdump manual (man tcpdump) for a comprehensive list of options and usage details.
 
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>PowerShell</b> 
+- <b>Diskpart</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> (21H2)
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
