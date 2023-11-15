@@ -33,7 +33,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Titlte](https://www.youtube.com/Url)
+- [N/A](https://www.youtube.com/Url)
 
 <h2> 🤳 Connect with me:</h2>
 
