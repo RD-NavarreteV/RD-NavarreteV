@@ -28,7 +28,8 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[linkedin]: https://linkedin.com/in/ruben-navarrete-b56b2554/
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/ruben-navarrete-b56b2554/
+
