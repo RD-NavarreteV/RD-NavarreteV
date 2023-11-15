@@ -11,8 +11,8 @@
 - <b>Small Office Network with Cisco Packet Tracer</b>
   - [Small Office Network with Cisco Packet Tracer](https://github.com/url)
  
-- <b>Vega for Beginners : Scan for Web Vulnerabilities</b>
-  - [Vega for Beginners : Scan for Web Vulnerabilities](https://github.com/url)
+- <b>Vega : Scan for Web Vulnerabilities</b>
+  - [Vega : Scan for Web Vulnerabilities](https://github.com/url)
 
 - <b>Create your first custom Amazon Aurora Database/VPC and its components in AWS</b>
   - [Create your first custom Amazon Aurora Database/VPC and its components in AWS](https://github.com/url)
