@@ -27,6 +27,8 @@
 
   - [Splunk Security Operations and Defense Analyst Certification](https://i.imgur.com/01gij3Q.png)
 
+  - [AWS Academy Cloud Foundations](https://www.credly.com/badges/2c56f3cc-ee66-43e9-882a-161eea23e19a/print)
+
 <b>
 
 <h2>📺 Popular YouTube Videos</h2>
