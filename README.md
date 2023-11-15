@@ -8,14 +8,14 @@
 - <b>Wireshark Capture Packets/Packet Sniffing with Wireshark</b>
   - [Wireshark Capture Packets/Packet Sniffing with Wireshark](https://github.com/url)
  
-- <b>Networking CPT Mini enviorment</b>
-  - [title](https://github.com/url)
+- <b>Small Office Network with Cisco Packet Tracer</b>
+  - [Small Office Network with Cisco Packet Tracer](https://github.com/url)
  
-- <b>Head Title</b>
-  - [title](https://github.com/url)
+- <b>Vega for Beginners : Scan for Web Vulnerabilities</b>
+  - [Vega for Beginners : Scan for Web Vulnerabilities](https://github.com/url)
 
-- <b>Head Title</b>
-  - [title](https://github.com/url)
+- <b>Create your first custom Amazon Aurora Database/VPC and its components in AWS</b>
+  - [Create your first custom Amazon Aurora Database/VPC and its components in AWS](https://github.com/url)
     
 <h2>📺 Popular YouTube Videos</h2>
 
