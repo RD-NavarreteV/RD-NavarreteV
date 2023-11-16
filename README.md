@@ -6,7 +6,7 @@
   - [Analyze Network Traffic with TCPDump ](https://github.com/RD-NavarreteV/Analyze-Network-Traffic-with-TCPDump/blob/main/README.md)
     
 - <b>Wireshark Capture Packets/Packet Sniffing with Wireshark</b>
-  - [Wireshark Capture Packets/Packet Sniffing with Wireshark]([https://github.com/url](https://github.com/RD-NavarreteV/Capture-Packets-with-Wireshark))
+  - [Wireshark Capture Packets/Packet Sniffing with Wireshark](https://github.com/RD-NavarreteV/Capture-Packets-with-Wireshark))
  
 - <b>Small Office Network with Cisco Packet Tracer</b>
   - [Small Office Network with Cisco Packet Tracer](https://github.com/RD-NavarreteV/Small-Office-Network-with-CPT)
