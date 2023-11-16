@@ -6,16 +6,16 @@
   - [Analyze Network Traffic with TCPDump ](https://github.com/RD-NavarreteV/Analyze-Network-Traffic-with-TCPDump/blob/main/README.md)
     
 - <b>Wireshark Capture Packets/Packet Sniffing with Wireshark</b>
-  - [Wireshark Capture Packets/Packet Sniffing with Wireshark](https://github.com/url)
+  - [Wireshark Capture Packets/Packet Sniffing with Wireshark]([https://github.com/url](https://github.com/RD-NavarreteV/Capture-Packets-with-Wireshark))
  
 - <b>Small Office Network with Cisco Packet Tracer</b>
-  - [Small Office Network with Cisco Packet Tracer](https://github.com/url)
+  - [Small Office Network with Cisco Packet Tracer](https://github.com/RD-NavarreteV/Small-Office-Network-with-CPT)
  
 - <b>Vega : Scan for Web Vulnerabilities</b>
-  - [Vega : Scan for Web Vulnerabilities](https://github.com/url)
+  - [Vega : Scan for Web Vulnerabilities](https://github.com/RD-NavarreteV/Vega-Scan-for-Web-Vulnerabilities)
 
 - <b>Create your first custom Amazon Aurora Database/VPC and its components in AWS</b>
-  - [Create your first custom Amazon Aurora Database/VPC and its components in AWS](https://github.com/url)
+  - [AWS Amazon Aurora Database/VPC](https://github.com/RD-NavarreteV/AWS-Amazon-Aurora-Database)
     
 <h2>📖 Certificates:</h2>
 
